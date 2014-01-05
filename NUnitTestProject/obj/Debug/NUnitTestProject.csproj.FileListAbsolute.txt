@@ -1,0 +1,8 @@
+E:\Dev\Repository\NUnitTestProjectSoln\NUnitTestProject\bin\Debug\NUnitTestProject.dll
+E:\Dev\Repository\NUnitTestProjectSoln\NUnitTestProject\bin\Debug\NUnitTestProject.pdb
+E:\Dev\Repository\NUnitTestProjectSoln\NUnitTestProject\obj\Debug\ResolveAssemblyReference.cache
+E:\Dev\Repository\NUnitTestProjectSoln\NUnitTestProject\obj\Debug\NUnitTestProject.dll
+E:\Dev\Repository\NUnitTestProjectSoln\NUnitTestProject\obj\Debug\NUnitTestProject.pdb
+E:\Dev\Repository\NUnitTestProjectSoln\NUnitTestProject\bin\Debug\nunit.framework.dll
+E:\Dev\Repository\NUnitTestProjectSoln\NUnitTestProject\bin\Debug\nunit.mocks.dll
+E:\Dev\Repository\NUnitTestProjectSoln\NUnitTestProject\bin\Debug\nunit.framework.xml
