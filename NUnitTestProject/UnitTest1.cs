@@ -13,7 +13,7 @@ namespace NUnitTestProject
         [Test]
         public void TestMethod1()
         {
-            Assert.AreEqual(2, 2);
+            Assert.AreEqual(2, 1);
         }
     }
 }
