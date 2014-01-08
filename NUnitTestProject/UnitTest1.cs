@@ -28,7 +28,13 @@ namespace NUnitTestProject
         {
             _driver.Navigate().GoToUrl("http://google.com");
             _driver.FindElement(By.Id("gbqfq")).SendKeys("Selenium");
-            _driver.FindElement(By.Id("gbqfba")).Click();
+            _driver.FindElement(By.Id("gbqfb")).Click();
+            
+            string title = _driver.Title;
+
+
+            Assert.AreEqual("Google", title);
+
             
         }
     }
