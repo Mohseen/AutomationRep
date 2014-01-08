@@ -1,16 +1,16 @@
 ﻿using System;
 using System.Text;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+//using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System.Collections.Generic;
 using System.Linq;
-//using NUnit.Framework;
+using NUnit.Framework;
 
 namespace NUnitTestProject
 {
-    [TestClass]
+    [TestFixture]
     public class UnitTest1
     {
-        [TestMethod]
+        [Test]
         public void TestMethod1()
         {
             Assert.AreEqual(2, 2);
